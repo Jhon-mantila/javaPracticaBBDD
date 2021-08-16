@@ -166,7 +166,7 @@ class LaminaBBDD extends JPanel{
 			e.printStackTrace();
 		}
 			
-	}
+	}//Cierre obtener tablas
 	
 	public void mostrarInfoTabla(String nombreTabla) {
 		
@@ -216,5 +216,5 @@ class LaminaBBDD extends JPanel{
 			e.printStackTrace();
 		}
 		
-	}
+	}//Cierre mostrar info tabla
 }
